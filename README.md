@@ -6,4 +6,4 @@ This repo will have all my code for codeacademy projects
 2. [Python Function: Medical Insurance Project](https://gist.github.com/c517acecd9cf29e51d09747a82ea2f6c)
 
 ## Data Analyst Career Track
-1. [Python Control Flow: Medical Insurance Project] (https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
+1. [Python Control Flow: Medical Insurance Project](https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
