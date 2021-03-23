@@ -9,6 +9,7 @@ This repo will have all my code for codeacademy projects
 5. [Python Strings: Medical Insurance Project](https://gist.github.com/499184bbd4adbc188885b09b837e0d97)
 6. [Python Dictionaries: Medical Insurance Project](https://gist.github.com/fa6d091c830087b8a51d92bf23f2e317)
 7. [Hurricane Analysis](https://gist.github.com/c5c6459a655ae7518a9c1d198a03626c)
+8. [Python Classes: Medical Insurance Project](https://gist.github.com/aca58379a36685a7ae6360e34850c570)
 
 ## Data Analyst Career Track
 1. [Python Control Flow: Medical Insurance Project](https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
