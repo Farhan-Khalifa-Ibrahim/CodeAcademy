@@ -12,6 +12,7 @@ This repo will have all my code for codeacademy projects
 8. [Python Classes: Medical Insurance Project](https://gist.github.com/aca58379a36685a7ae6360e34850c570)
 9. [Hacking The Fender](https://gist.github.com/f6e7d3657f34ec3acae3edeb1ea4aece)
 10. [Python Project Analyse CSV Data](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/tree/main/python-portfolio)
+11. [SQL Basic: New York Restaurants](https://gist.github.com/ad29eb5be07cde6f339a824c7d68b037)
 
 ## Data Analyst Career Track (28%)
 1. [Python Control Flow: Medical Insurance Project](https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
