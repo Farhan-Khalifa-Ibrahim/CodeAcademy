@@ -1,7 +1,7 @@
 # CodeAcademy
 This repo will have all my code for codeacademy projects
 
-## Data Science Career Track
+## Data Science Career Track (22%)
 1. [Python Syntax: Medical Insurance Project](https://gist.github.com/7efe06c2e430cc1fb9e227f835f28c57)
 2. [Python Function: Medical Insurance Project](https://gist.github.com/c517acecd9cf29e51d09747a82ea2f6c)
 3. [Python More List: Medical Insurance Project](https://gist.github.com/ae9d24c9ade37a212ed9a49848510b09)
@@ -13,6 +13,6 @@ This repo will have all my code for codeacademy projects
 9. [Hacking The Fender](https://gist.github.com/f6e7d3657f34ec3acae3edeb1ea4aece)
 10. [Python Project Analyse CSV Data](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/tree/main/python-portfolio)
 
-## Data Analyst Career Track
+## Data Analyst Career Track (28%)
 1. [Python Control Flow: Medical Insurance Project](https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
 2. [Python List: Medical Insurance Project](https://gist.github.com/9567623ffc6682fa8bdaac674c2e270f)
