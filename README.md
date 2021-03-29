@@ -1,7 +1,9 @@
 # CodeAcademy
-This repo will have all my code for codeacademy projects
+This repo will have all my code for Codecademy projects.
 
-## Data Science Career Track (23%)
+Some courses have common material. That is why some have a higher percentage, although the code is lesser.
+
+## Data Science Career Track (25%)
 1. [Python Syntax: Medical Insurance Project](https://gist.github.com/7efe06c2e430cc1fb9e227f835f28c57)
 2. [Python Function: Medical Insurance Project](https://gist.github.com/c517acecd9cf29e51d09747a82ea2f6c)
 3. [Python More List: Medical Insurance Project](https://gist.github.com/ae9d24c9ade37a212ed9a49848510b09)
@@ -14,6 +16,6 @@ This repo will have all my code for codeacademy projects
 10. [Python Project Analyse CSV Data](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/tree/main/python-portfolio)
 11. [SQL Basic: New York Restaurants](https://gist.github.com/ad29eb5be07cde6f339a824c7d68b037)
 
-## Data Analyst Career Track (28%)
+## Data Analyst Career Track (32%)
 1. [Python Control Flow: Medical Insurance Project](https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
 2. [Python List: Medical Insurance Project](https://gist.github.com/9567623ffc6682fa8bdaac674c2e270f)
