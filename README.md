@@ -1,5 +1,5 @@
 # CodeAcademy
-This repo will have all my code for Codecademy projects.
+This repo will have all my code for [Codecademy](https://www.codecademy.com/profiles/FarhanKhalifaIbrahim) projects.
 
 Some courses have common material. That is why some have a higher percentage, although the code is lesser.
 
