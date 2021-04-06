@@ -16,6 +16,7 @@ Some courses have common material. That is why some have a higher percentage, al
 10. [Python Project Analyse CSV Data](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/tree/main/python-portfolio)
 11. [SQL Basic: New York Restaurants](https://gist.github.com/ad29eb5be07cde6f339a824c7d68b037)
 12. [Manipulating Data Frame Pandas](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Manipulating%20Data%20Frame%20Pandas.py)
+13. [Merging Data Frame Pandas]()
 
 ## Data Analyst Career Track (32%)
 1. [Python Control Flow: Medical Insurance Project](https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
