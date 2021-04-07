@@ -25,3 +25,4 @@ Some courses have common material. That is why some have a higher percentage, al
 2. [Python List: Medical Insurance Project](https://gist.github.com/9567623ffc6682fa8bdaac674c2e270f)
 
 ## Build Python Web Apps with Flask (41%)
+1. [Python String](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Python%20String.py)
