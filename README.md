@@ -18,6 +18,7 @@ Some courses have common material. That is why some have a higher percentage, al
 12. [Manipulating Data Frame Pandas](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Manipulating%20Data%20Frame%20Pandas.py)
 13. [Merging Data Frame Pandas](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Merging%20Data%20Frame%20Pandas.py)
 14. [Merging Data Frame Project](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Merging%20Data%20Frame%20Project.py)
+15. [Data Manipulation Project Jeopardy](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Data%20Manipulation%20Project%20Jeopardy.py)
 
 ## Data Analyst Career Track (32%)
 1. [Python Control Flow: Medical Insurance Project](https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
