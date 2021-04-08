@@ -26,3 +26,4 @@ Some courses have common material. That is why some have a higher percentage, al
 
 ## Build Python Web Apps with Flask (41%)
 1. [Python String](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Python%20String.py)
+2. [Python Function](https://gist.github.com/75bb58d2c55d2937714122bfec367116)
