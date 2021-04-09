@@ -3,7 +3,7 @@ This repo will have all my code for [Codecademy](https://www.codecademy.com/prof
 
 Some courses have common material. That is why some have a higher percentage, although the code is lesser.
 
-## Data Science Career Track (25%)
+## Data Science Career Track
 1. [Python Syntax: Medical Insurance Project](https://gist.github.com/7efe06c2e430cc1fb9e227f835f28c57)
 2. [Python Function: Medical Insurance Project](https://gist.github.com/c517acecd9cf29e51d09747a82ea2f6c)
 3. [Python More List: Medical Insurance Project](https://gist.github.com/ae9d24c9ade37a212ed9a49848510b09)
@@ -20,10 +20,13 @@ Some courses have common material. That is why some have a higher percentage, al
 14. [Merging Data Frame Project](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Merging%20Data%20Frame%20Project.py)
 15. [Data Manipulation Project Jeopardy](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Data%20Manipulation%20Project%20Jeopardy.py)
 
-## Data Analyst Career Track (32%)
+## Data Analyst Career Track 
 1. [Python Control Flow: Medical Insurance Project](https://gist.github.com/59f754db28b8a1c8bceb1b3180dd6367)
 2. [Python List: Medical Insurance Project](https://gist.github.com/9567623ffc6682fa8bdaac674c2e270f)
 
-## Build Python Web Apps with Flask (41%)
+## Build Python Web Apps with Flask 
 1. [Python String](https://github.com/Farhan-Khalifa-Ibrahim/CodeAcademy/blob/main/Python%20String.py)
 2. [Python Function](https://gist.github.com/75bb58d2c55d2937714122bfec367116)
+
+## Learn Javascript
+1. [Javascript Variable](https://gist.github.com/bcdf2dfd0123ccdc8f9d1a511a78495f)
