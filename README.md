@@ -30,3 +30,4 @@ Some courses have common material. That is why some have a higher percentage, al
 
 ## Learn Javascript
 1. [Javascript Variable](https://gist.github.com/bcdf2dfd0123ccdc8f9d1a511a78495f)
+2. [Dog Age Javascript Variable](https://gist.github.com/9b69bd19465d940bfe274354c4c30508)
