@@ -34,3 +34,6 @@ Some courses have common material. That is why some have a higher percentage, al
 3. [Three Ball JS Condtional Statement](https://gist.github.com/58dccd8a0d01029107a01ab83a3d2a52)
 4. [Runner Conditional Statement](https://gist.github.com/53942e4637744f02733f9c0a13382e54)
 5. [JS Object: A Full Meal](https://gist.github.com/07bf58dcfbc7efc800091b87adad2855)
+
+## Learn Typescript
+1. [Array Typescript](https://gist.github.com/2bf5d93103e4a1b26718f053f65113cf)
