@@ -29,6 +29,7 @@ Some courses have common material. That is why some have a higher percentage, al
 2. [Python Function](https://gist.github.com/75bb58d2c55d2937714122bfec367116)
 3. [Python Conditionals](https://gist.github.com/d0a115b9e02fd7b99de5849c6f624783)
 4. [Python Condtionals 2](https://gist.github.com/5d7a39aead083b6163436fc3071e5b5c)
+5. [Python List](https://gist.github.com/f89eea495d01542190a2c5c1e8433ffa)
 
 ## Learn Javascript
 1. [Javascript Variable](https://gist.github.com/bcdf2dfd0123ccdc8f9d1a511a78495f)
