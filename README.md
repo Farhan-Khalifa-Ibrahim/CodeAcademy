@@ -33,6 +33,7 @@ Some courses have common material. That is why some have a higher percentage, al
 6. [Python list 2](https://gist.github.com/da5903edb869e867a7d7313cf61ce482)
 7. [Python loop](https://gist.github.com/0cff3cc5ae40fb9a1cfa7e9ed93d0513)
 8. [Python Dictionary](https://gist.github.com/e5e5168172a251650bcea82ecc3678a6)
+9. [Python Class](https://gist.github.com/34a123c7ecf3fbe0f70fb2678f443bd7)
 
 ## Learn Javascript
 1. [Javascript Variable](https://gist.github.com/bcdf2dfd0123ccdc8f9d1a511a78495f)
