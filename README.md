@@ -46,3 +46,4 @@ Some courses have common material. That is why some have a higher percentage, al
 1. [Array Typescript](https://gist.github.com/2bf5d93103e4a1b26718f053f65113cf)
 2. [Typescript Basic](https://gist.github.com/ffe5786546f5001f7eb229d7a5841081)
 3. [Typescript Function Project](https://gist.github.com/fa130de90ea21946f2ca0c36cde5d970)
+4. [Typescript Type Union Project](https://gist.github.com/2307395551e9925ca2b474a022c36cd5)
