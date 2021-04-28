@@ -1,7 +1,7 @@
 # CodeAcademy
 This repo will have all my code for [Codecademy](https://www.codecademy.com/profiles/FarhanKhalifaIbrahim) projects.
 
-Some courses have common material. That is why some have a higher percentage, although the code is lesser.
+Some courses have common material.
 
 ## Data Science Career Track
 1. [Python Syntax: Medical Insurance Project](https://gist.github.com/7efe06c2e430cc1fb9e227f835f28c57)
