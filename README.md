@@ -48,3 +48,4 @@ Some courses have common material. That is why some have a higher percentage, al
 3. [Typescript Function Project](https://gist.github.com/fa130de90ea21946f2ca0c36cde5d970)
 4. [Typescript Type Union Project](https://gist.github.com/2307395551e9925ca2b474a022c36cd5)
 5. [Type Narrowing Project](https://gist.github.com/ffef8f7d6602fab3f993d98b48f04750)
+6. [Autonomus Car Final Project](https://gist.github.com/e4ce4aafdc04eeff4f965652d4d69c3d)
