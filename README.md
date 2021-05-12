@@ -55,3 +55,4 @@ Some courses have common material.
 1. [Rock, Paper, Scissors](https://gist.github.com/bae7212b2ff6d9a8b9d8260663058f35)
 
 ## Fullstack Engineer Career Track
+1. [Javascript Syntax](https://gist.github.com/d0bbb980ff42c2a15a5ff0f80d36e346)
