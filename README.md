@@ -35,6 +35,7 @@ Some courses have common material.
 8. [Python Dictionary](https://gist.github.com/e5e5168172a251650bcea82ecc3678a6)
 9. [Python Class](https://gist.github.com/34a123c7ecf3fbe0f70fb2678f443bd7)
 10. [Adopt A Pet Project](https://gist.github.com/b418edc473637fc0d7b45b082cc61639)
+11. [Tourist Attaraction](https://gist.github.com/7a87c2f4e3c38380f77e26f183c60dea)
 
 ## Learn Javascript
 1. [Javascript Variable](https://gist.github.com/bcdf2dfd0123ccdc8f9d1a511a78495f)
