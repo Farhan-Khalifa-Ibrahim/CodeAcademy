@@ -58,3 +58,4 @@ Some courses have common material.
 ## Fullstack Engineer Career Track
 1. [Javascript Syntax](https://gist.github.com/d0bbb980ff42c2a15a5ff0f80d36e346)
 2. [Javascript Function](https://gist.github.com/19535ec7bf677c2645740779698ca793)
+3. [Javascript Array](https://gist.github.com/b48d72c5285dd20feedbfce07e3a269f)
