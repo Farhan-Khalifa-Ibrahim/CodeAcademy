@@ -62,3 +62,4 @@ Some courses have common material.
 4. [Javascript Object](https://gist.github.com/246e5b41fd6153d48f159b66782ce1fb)
 5. [Javascript Iterators](https://gist.github.com/054eafbecdfd2e2f83507592310568d9)
 6. [Lodash Javascript](https://gist.github.com/1ebfa9eb4b09cd262fff167f52eaa9e2)
+7. [Credit Card Checker](https://gist.github.com/5b0be04b53835c79d3dc292f599c8dfa)
