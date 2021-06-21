@@ -65,3 +65,4 @@ Some courses have common material.
 7. [Credit Card Checker](https://gist.github.com/5b0be04b53835c79d3dc292f599c8dfa)
 8. [JavaScript Object DNA Strain](https://gist.github.com/ec3a9d262eeff577547406b09a248988)
 9. [Fashion Blog](https://gist.github.com/416f252dda0ef62d12c2ab7da8ce0188)
+10. [HTML Table](https://gist.github.com/2f8344c07b3e869af77304fd43cf8668)
