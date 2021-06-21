@@ -66,3 +66,4 @@ Some courses have common material.
 8. [JavaScript Object DNA Strain](https://gist.github.com/ec3a9d262eeff577547406b09a248988)
 9. [Fashion Blog](https://gist.github.com/416f252dda0ef62d12c2ab7da8ce0188)
 10. [HTML Table](https://gist.github.com/2f8344c07b3e869af77304fd43cf8668)
+11. [New York City HTML](https://gist.github.com/cfd5db388324c8ccf95c25d9d148e5d8)
