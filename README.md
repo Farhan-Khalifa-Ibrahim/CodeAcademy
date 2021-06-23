@@ -1,4 +1,4 @@
-# CodeAcademy
+# Codecademy
 This repo will have all my code for [Codecademy](https://www.codecademy.com/profiles/FarhanKhalifaIbrahim) projects.
 
 Some courses have common material.
@@ -67,3 +67,4 @@ Some courses have common material.
 9. [Fashion Blog](https://gist.github.com/416f252dda0ef62d12c2ab7da8ce0188)
 10. [HTML Table](https://gist.github.com/2f8344c07b3e869af77304fd43cf8668)
 11. [New York City HTML](https://gist.github.com/cfd5db388324c8ccf95c25d9d148e5d8)
+12. [Healthy Menu CSS HTML](https://gist.github.com/d6db8c9920bb40a040898f82c4080dbe)
