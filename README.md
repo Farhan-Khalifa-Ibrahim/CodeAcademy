@@ -71,3 +71,4 @@ Some courses have common material.
 13. [Olivia WoodRoof Portofolio HTML CSS](https://gist.github.com/e7ebbc3c2c5acc2bc6a7c6463d1d315a)
 14. [HTML Table](https://gist.github.com/84b9c497da482a775112bb853c9ad117)
 15. [Travelling App Landing Page (Github Pages)](https://farhan-khalifa-ibrahim.github.io/Excursion-Project/)
+16. [CSS Color Format](https://gist.github.com/454069967ce2af715f291cab18025b2b)
