@@ -72,3 +72,4 @@ Some courses have common material.
 14. [HTML Table](https://gist.github.com/84b9c497da482a775112bb853c9ad117)
 15. [Travelling App Landing Page](https://farhan-khalifa-ibrahim.github.io/Excursion-Project/)
 16. [CSS Color Format](https://gist.github.com/454069967ce2af715f291cab18025b2b)
+17. [Davis's burger CSS Box Model](https://gist.github.com/a19267e533a8e8399aecb0e29a8dd9bd)
