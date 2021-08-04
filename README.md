@@ -73,3 +73,6 @@ Some courses have common material.
 15. [Travelling App Landing Page](https://farhan-khalifa-ibrahim.github.io/Excursion-Project/)
 16. [CSS Color Format](https://gist.github.com/454069967ce2af715f291cab18025b2b)
 17. [Davis's burger CSS Box Model](https://gist.github.com/a19267e533a8e8399aecb0e29a8dd9bd)
+
+## Build python web apps with django
+1. [Django Basic](https://gist.github.com/f26f4b5b4aa9eb86c756a45a79bba858)
