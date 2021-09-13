@@ -76,3 +76,6 @@ Some courses have common material.
 
 ## Build python web apps with django
 1. [Django Basic](https://gist.github.com/f26f4b5b4aa9eb86c756a45a79bba858)
+
+## Learn C#
+1. [Introduction Project](https://gist.github.com/ea4efb48b0f86c8f034a0675d46dd4ca)
