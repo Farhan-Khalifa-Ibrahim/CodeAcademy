@@ -79,3 +79,4 @@ Some courses have common material.
 
 ## Learn C#
 1. [Introduction Project](https://gist.github.com/ea4efb48b0f86c8f034a0675d46dd4ca)
+2. [Introduction to Class](https://gist.github.com/e8e2d658ef6687d7d44c7fdc4fd843c4)
